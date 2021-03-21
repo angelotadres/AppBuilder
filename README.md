@@ -1,7 +1,7 @@
 # AppBuilder 
-A tool to help you in the build creation process. Part of the book [Extending Unity with Editor Scripting](https://www.packtpub.com/game-development/extending-unity-editor-scripting) published by *Packt Publishing*.
+A tool to help you in the build creation process. Part of the book [Extending Unity with Editor Scripting](https://www.packtpub.com/game-development/extending-unity-editor-scripting) published by *Packt Publishing* (Also available at [Amazon](https://www.amazon.com/Extending-Editor-Scripting-Angelo-Tadres/dp/1785281852)). 
 
-![Book Cover](https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781785281853.png)
+<img src="BookCover.jpg" alt="Book Cover" width="300"/>
 
 > "This book is for anyone who has at least a basic knowledge of Unity programming using C# and wants to learn how to extend and create custom tools using Editor Scripting to improve the development workflow and make the video game development easier." 
 
